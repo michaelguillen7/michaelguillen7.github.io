@@ -1,3 +1,24 @@
+body {
+    background-color:gray;
+}
+
 h1 {
     color:red;
+    background-color: black;
+    text-align:center;
+    font-family: arial, sans-serif;
+    font-size: 52px;
+    padding: 20px;
+    margin: 20px;
+}
+
+section {
+    color:black;
+    text-align:center;
+    font-size:24px;
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+    float: left;
 }
